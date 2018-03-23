@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Huy's CV
 ---
-# Isaac Newton
+# Nguyễn Phi Huy
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
