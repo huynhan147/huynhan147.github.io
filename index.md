@@ -3,42 +3,38 @@ layout: cv
 title: Huy's CV
 ---
 # Nguyễn Phi Huy
-Physicist, Mathematician, Cambridge professor.
+Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="huyitptit2015@gmail.com">huyitptit2015@gmail.com</a>
 </div>
 
 
-## Currently
+## Hiện tại
 
-Standing on the shoulders of giants
+Sinh viên : Học viện Công nghệ Bưu chính Viễn thông
 
-### Specialized in
+### Chuyên ngành
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+An toàn thông tin
 
 
-## Education
+### Nghiên cứu
 
-`1654-1660`
-__The King's School, Grantham.__
+Nghiên cứu mã độc, Bảo mật hệ thống
 
-`June 1661 - now`
-__Trinity College, Cambridge__
 
-- Sizar
+## Học tập
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2013-2015`
+__Trung học phổ thông Hiệp Hòa số 1__
 
-- Fellow
+`10-2015 - hiện tại`
+__Học viện Công nghệ Bưu chính Viễn thông__
+
+- Tham gia IT PTIT CLUB
+
+
 
 
 
